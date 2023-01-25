@@ -1,0 +1,952 @@
+10107	Bacteria	Actinobacteriota	Actinobacteria	Micrococcales	Micrococcaceae	Rothia	nasimurium
+9374	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	porci
+6274	Bacteria	Actinobacteriota	Actinobacteria	Micrococcales	Micrococcaceae	Rothia	nasimurium
+4703	Bacteria	Actinobacteriota	Actinobacteria	Micrococcales	Micrococcaceae	Rothia	nasimurium
+4598	Bacteria	Actinobacteriota	Actinobacteria	Micrococcales	Micrococcaceae	Rothia	nasimurium
+4540	Bacteria	Actinobacteriota	Actinobacteria	Micrococcales	Micrococcaceae	Rothia	nasimurium
+4525	Bacteria	Actinobacteriota	Actinobacteria	Micrococcales	Micrococcaceae	Rothia	nasimurium
+4341	Bacteria	Actinobacteriota	Actinobacteria	Micrococcales	Micrococcaceae	Rothia	nasimurium
+4264	Bacteria	Actinobacteriota	Actinobacteria	Micrococcales	Micrococcaceae	Rothia	nasimurium
+4207	Bacteria	Actinobacteriota	Actinobacteria	Micrococcales	Micrococcaceae	Rothia	nasimurium
+4198	Bacteria	Actinobacteriota	Actinobacteria	Micrococcales	Micrococcaceae	Rothia	nasimurium
+4013	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	porci
+3942	Bacteria	Actinobacteriota	Actinobacteria	Micrococcales	Micrococcaceae	Rothia	nasimurium
+3469	Bacteria	Actinobacteriota	Actinobacteria	Micrococcales	Micrococcaceae	Rothia	nasimurium
+3449	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	
+3407	Bacteria	Actinobacteriota	Actinobacteria	Micrococcales	Micrococcaceae	Rothia	nasimurium
+3404	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	porci
+3380	Bacteria	Actinobacteriota	Actinobacteria	Micrococcales	Micrococcaceae	Rothia	nasimurium
+3374	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	
+3126	Bacteria	Actinobacteriota	Actinobacteria	Micrococcales	Micrococcaceae	Rothia	nasimurium
+3112	Bacteria	Actinobacteriota	Actinobacteria	Micrococcales	Micrococcaceae	Rothia	nasimurium
+2931	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	
+2775	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	porci
+2600	Bacteria	Firmicutes	Bacilli	Lactobacillales	Carnobacteriaceae	Isobaculum	
+2585	Bacteria	Firmicutes	Bacilli	Lactobacillales	Carnobacteriaceae	Isobaculum	
+2581	Bacteria	Actinobacteriota	Actinobacteria	Micrococcales	Micrococcaceae	Rothia	nasimurium
+2443	Bacteria	Actinobacteriota	Actinobacteria	Micrococcales	Micrococcaceae	Rothia	nasimurium
+2368	Bacteria	Actinobacteriota	Actinobacteria	Micrococcales	Micrococcaceae	Rothia	nasimurium
+2301	Bacteria	Actinobacteriota	Actinobacteria	Micrococcales	Micrococcaceae	Rothia	nasimurium
+2256	Bacteria	Actinobacteriota	Actinobacteria	Micrococcales	Micrococcaceae	Rothia	nasimurium
+2168	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	porci
+2109	Bacteria	Firmicutes	Bacilli	Lactobacillales	Carnobacteriaceae	Isobaculum	
+2058	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	
+2049	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	porci
+2038	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	
+2021	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	porci
+1912	Bacteria	Firmicutes	Bacilli	Lactobacillales	Carnobacteriaceae	Isobaculum	
+1888	Bacteria	Actinobacteriota	Actinobacteria	Micrococcales	Micrococcaceae	Rothia	nasimurium
+1860	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	
+1851	Bacteria	Actinobacteriota	Actinobacteria	Micrococcales	Micrococcaceae	Rothia	nasimurium
+1849	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	porci
+1771	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	porci
+1735	Bacteria	Actinobacteriota	Actinobacteria	Micrococcales	Micrococcaceae	Rothia	nasimurium
+1733	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	amylovorus
+1729	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	
+1676	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	porci
+1671	Bacteria	Actinobacteriota	Actinobacteria	Micrococcales	Micrococcaceae	Rothia	nasimurium
+1661	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	porci
+1635	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	amylovorus
+1572	Bacteria	Actinobacteriota	Actinobacteria	Micrococcales	Micrococcaceae	Rothia	nasimurium
+1532	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	
+1517	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	
+1441	Bacteria	Firmicutes	Bacilli	Lactobacillales	Carnobacteriaceae	Isobaculum	
+1389	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	
+1357	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	
+1346	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	
+1342	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Succinivibrionaceae	Succinivibrionaceae UCG-001	
+1341	Bacteria	Firmicutes	Bacilli	Lactobacillales	Carnobacteriaceae	Isobaculum	
+1326	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	porci
+1278	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	amylovorus
+1262	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	porci
+1249	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	
+1239	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	amylovorus
+1219	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	
+1216	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	sanguinis
+1205	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	amylovorus
+1204	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	
+1203	Bacteria	Actinobacteriota	Actinobacteria	Micrococcales	Micrococcaceae	Rothia	nasimurium
+1190	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	
+1163	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Succinivibrionaceae	Succinivibrionaceae UCG-001	
+1161	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	
+1159	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	porci
+1154	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	amylovorus
+1111	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	amylovorus
+1090	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	
+1079	Bacteria	Actinobacteriota	Actinobacteria	Micrococcales	Micrococcaceae	Rothia	nasimurium
+1079	Bacteria	Firmicutes	Bacilli	Lactobacillales	Carnobacteriaceae	Isobaculum	
+1075	Bacteria	Actinobacteriota	Actinobacteria	Micrococcales	Micrococcaceae	Rothia	nasimurium
+1049	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	amylovorus
+1026	Bacteria	Actinobacteriota	Actinobacteria	Micrococcales	Micrococcaceae	Rothia	nasimurium
+1024	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	
+1015	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	porci
+1014	Bacteria	Firmicutes	Bacilli	Lactobacillales	Carnobacteriaceae	Isobaculum	
+999	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Succinivibrionaceae	Succinivibrionaceae UCG-001	
+998	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	
+997	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	amylovorus
+990	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	sanguinis
+965	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	
+947	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	porci
+933	Bacteria	Firmicutes	Bacilli	Lactobacillales	Carnobacteriaceae	Isobaculum	
+931	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	
+907	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	
+887	Bacteria	Actinobacteriota	Actinobacteria	Micrococcales	Micrococcaceae	Rothia	nasimurium
+884	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	
+866	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	
+855	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	
+855	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	
+844	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	porci
+832	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Succinivibrionaceae	Succinivibrionaceae UCG-001	
+832	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	porci
+832	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium sensu stricto 1	
+831	Bacteria	Actinobacteriota	Actinobacteria	Micrococcales	Micrococcaceae	Rothia	nasimurium
+827	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	
+819	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	amylovorus
+790	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	
+788	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	
+781	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	amylovorus
+775	Bacteria	Actinobacteriota	Actinobacteria	Micrococcales	Micrococcaceae	Rothia	nasimurium
+764	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	
+754	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	porci
+750	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Succinivibrionaceae	Succinivibrionaceae UCG-001	
+750	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Terrisporobacter	
+740	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	porci
+739	Bacteria	Actinobacteriota	Actinobacteria	Micrococcales	Micrococcaceae	Rothia	nasimurium
+739	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	
+737	Bacteria	Firmicutes	Bacilli	Lactobacillales	Carnobacteriaceae	Isobaculum	
+728	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	
+728	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	amylovorus
+724	Bacteria	Actinobacteriota	Actinobacteria	Micrococcales	Micrococcaceae	Rothia	nasimurium
+723	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	amylovorus
+714	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	
+712	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Succinivibrionaceae	Succinivibrionaceae UCG-001	
+710	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	sanguinis
+704	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	amylovorus
+697	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	porci
+697	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	
+696	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	sanguinis
+680	Bacteria	Actinobacteriota	Actinobacteria	Micrococcales	Micrococcaceae	Rothia	nasimurium
+673	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	amylovorus
+667	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Succinivibrionaceae	Succinivibrionaceae UCG-001	
+663	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	amylovorus
+658	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	porci
+646	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	
+640	Bacteria	Actinobacteriota	Actinobacteria	Micrococcales	Micrococcaceae	Rothia	nasimurium
+634	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	
+633	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	amylovorus
+626	Bacteria	Actinobacteriota	Actinobacteria	Micrococcales	Micrococcaceae	Rothia	nasimurium
+626	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium sensu stricto 1	
+624	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	amylovorus
+621	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	
+620	Bacteria	Actinobacteriota	Actinobacteria	Micrococcales	Micrococcaceae	Rothia	nasimurium
+606	Bacteria	Firmicutes	Bacilli	Lactobacillales	Carnobacteriaceae	Isobaculum	
+603	Bacteria	Firmicutes	Bacilli	Lactobacillales	Carnobacteriaceae	Isobaculum	
+602	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	
+586	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	sanguinis
+584	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	
+572	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	porci
+570	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	
+568	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	porci
+563	Bacteria	Firmicutes	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Dialister	
+562	Bacteria	Firmicutes	Bacilli	Lactobacillales	Carnobacteriaceae	Isobaculum	
+559	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	
+558	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	
+557	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	sanguinis
+546	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	sanguinis
+544	Bacteria	Firmicutes	Bacilli	Lactobacillales	Carnobacteriaceae	Isobaculum	
+541	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	
+541	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	amylovorus
+536	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	
+535	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	
+535	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	
+526	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	sanguinis
+526	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	amylovorus
+525	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	
+519	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	amylovorus
+514	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Succinivibrionaceae	Succinivibrionaceae UCG-001	
+511	Bacteria	Actinobacteriota	Actinobacteria	Micrococcales	Micrococcaceae	Rothia	nasimurium
+510	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	amylovorus
+507	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	
+506	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	sanguinis
+506	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	amylovorus
+503	Bacteria	Actinobacteriota	Actinobacteria	Micrococcales	Micrococcaceae	Rothia	nasimurium
+503	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	amylovorus
+498	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Succinivibrionaceae	Succinivibrionaceae UCG-001	
+497	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium sensu stricto 1	
+493	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	amylovorus
+491	Bacteria	Firmicutes	Bacilli	Lactobacillales	Carnobacteriaceae	Isobaculum	
+489	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	porci
+488	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	amylovorus
+486	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Succinivibrionaceae	Succinivibrionaceae UCG-001	
+486	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	sanguinis
+484	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	
+484	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	amylovorus
+484	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	amylovorus
+483	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	sanguinis
+477	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	porci
+477	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	
+474	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	sanguinis
+474	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	porci
+472	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	amylovorus
+470	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	alactolyticus
+466	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Succinivibrionaceae	Succinivibrionaceae UCG-001	
+463	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	alactolyticus
+462	Bacteria	Firmicutes	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Dialister	
+461	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	
+461	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	amylovorus
+461	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	amylovorus
+461	Bacteria	Firmicutes	Bacilli	Lactobacillales	Carnobacteriaceae	Isobaculum	
+459	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	porci
+456	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	
+456	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium sensu stricto 1	
+454	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium sensu stricto 1	
+453	Bacteria	Firmicutes	Bacilli	Lactobacillales	Carnobacteriaceae	Isobaculum	
+452	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Succinivibrionaceae	Succinivibrionaceae UCG-001	
+452	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	
+448	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	alactolyticus
+445	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	sanguinis
+443	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	alactolyticus
+442	Bacteria	Actinobacteriota	Actinobacteria	Micrococcales	Micrococcaceae	Rothia	nasimurium
+438	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	
+437	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium sensu stricto 1	
+433	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	sanguinis
+431	Bacteria	Firmicutes	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Dialister	
+431	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	amylovorus
+429	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium sensu stricto 1	
+427	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Succinivibrionaceae	Succinivibrionaceae UCG-001	
+423	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Terrisporobacter	
+421	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Succinivibrionaceae	Succinivibrionaceae UCG-001	
+420	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	amylovorus
+416	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium sensu stricto 1	
+415	Bacteria	Firmicutes	Bacilli	Erysipelotrichales	Erysipelotrichaceae	Turicibacter	sanguinis
+415	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	amylovorus
+414	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Succinivibrionaceae	Succinivibrionaceae UCG-001	
+414	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	
+414	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	
+413	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Succinivibrionaceae	Succinivibrionaceae UCG-001	
+410	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium sensu stricto 1	
+403	Bacteria	Actinobacteriota	Actinobacteria	Micrococcales	Micrococcaceae	Rothia	nasimurium
+402	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	
+399	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Succinivibrionaceae	Succinivibrionaceae UCG-001	
+399	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Terrisporobacter	
+397	Bacteria	Firmicutes	Bacilli	Lactobacillales	Carnobacteriaceae	Isobaculum	
+396	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	
+396	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	alactolyticus
+395	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Succinivibrionaceae	Succinivibrionaceae UCG-001	
+395	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	amylovorus
+391	Bacteria	Firmicutes	Bacilli	Lactobacillales	Carnobacteriaceae	Isobaculum	
+390	Bacteria	Firmicutes	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Dialister	
+389	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Terrisporobacter	
+383	Bacteria	Firmicutes	Bacilli	Erysipelotrichales	Erysipelotrichaceae	Turicibacter	sanguinis
+377	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium sensu stricto 1	
+375	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	sanguinis
+374	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	amylovorus
+371	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	
+370	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	amylovorus
+369	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	amylovorus
+368	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	sanguinis
+367	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Succinivibrionaceae	Succinivibrionaceae UCG-001	
+367	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Terrisporobacter	
+365	Bacteria	Actinobacteriota	Actinobacteria	Micrococcales	Micrococcaceae	Rothia	nasimurium
+365	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	
+365	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	porci
+363	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	
+361	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Succinivibrionaceae	Succinivibrionaceae UCG-001	
+360	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium sensu stricto 1	
+358	Bacteria	Firmicutes	Bacilli	Erysipelotrichales	Erysipelotrichaceae	Turicibacter	sanguinis
+356	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Succinivibrionaceae	Succinivibrionaceae UCG-001	
+356	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	
+356	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	
+354	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	amylovorus
+353	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	sanguinis
+350	Bacteria	Actinobacteriota	Actinobacteria	Micrococcales	Micrococcaceae	Rothia	nasimurium
+350	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	porci
+349	Bacteria	Actinobacteriota	Actinobacteria	Micrococcales	Micrococcaceae	Rothia	nasimurium
+347	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	sanguinis
+345	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	amylovorus
+344	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Succinivibrionaceae	Succinivibrionaceae UCG-001	
+344	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Succinivibrionaceae	Succinivibrionaceae UCG-001	
+344	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	
+344	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium sensu stricto 1	
+343	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium sensu stricto 1	
+343	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium sensu stricto 1	
+337	Bacteria	Firmicutes	Bacilli	Lactobacillales	Carnobacteriaceae	Isobaculum	
+335	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Terrisporobacter	
+334	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Succinivibrionaceae	Succinivibrionaceae UCG-001	
+333	Bacteria	Actinobacteriota	Actinobacteria	Micrococcales	Micrococcaceae	Rothia	nasimurium
+333	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	
+332	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	alactolyticus
+329	Bacteria	Firmicutes	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Dialister	
+328	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium sensu stricto 1	
+327	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	alactolyticus
+325	Bacteria	Firmicutes	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Dialister	
+319	Bacteria	Firmicutes	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Dialister	
+319	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	alactolyticus
+318	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	
+318	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	porci
+317	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	
+316	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium sensu stricto 1	
+315	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Succinivibrionaceae	Succinivibrionaceae UCG-001	
+312	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Succinivibrionaceae	Succinivibrionaceae UCG-001	
+312	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	sanguinis
+312	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	
+312	Bacteria	Firmicutes	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Dialister	
+312	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium sensu stricto 1	
+311	Bacteria	Firmicutes	Bacilli	Lactobacillales	Carnobacteriaceae	Isobaculum	
+311	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium sensu stricto 1	
+311	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium sensu stricto 1	
+310	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	sanguinis
+310	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	
+310	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium sensu stricto 1	
+307	Bacteria	Firmicutes	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Dialister	
+305	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	sanguinis
+305	Bacteria	Firmicutes	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Dialister	
+305	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium sensu stricto 1	
+304	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	
+304	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	amylovorus
+303	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Terrisporobacter	
+303	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Terrisporobacter	
+301	Bacteria	Firmicutes	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Dialister	
+300	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	amylovorus
+299	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Succinivibrionaceae	Succinivibrionaceae UCG-001	
+298	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	
+298	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	amylovorus
+296	Bacteria	Firmicutes	Bacilli	Erysipelotrichales	Erysipelotrichaceae	Turicibacter	sanguinis
+294	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	
+293	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	porci
+293	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium sensu stricto 1	
+291	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	sanguinis
+290	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	
+290	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Terrisporobacter	
+290	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Terrisporobacter	
+287	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Terrisporobacter	
+287	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium sensu stricto 1	
+284	Bacteria	Firmicutes	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Dialister	
+282	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	porci
+278	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium sensu stricto 1	
+276	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	
+274	Bacteria	Actinobacteriota	Actinobacteria	Micrococcales	Micrococcaceae	Rothia	nasimurium
+274	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium sensu stricto 1	
+272	Bacteria	Firmicutes	Bacilli	Erysipelotrichales	Erysipelotrichaceae	Turicibacter	sanguinis
+271	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Terrisporobacter	
+271	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium sensu stricto 1	
+271	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium sensu stricto 1	
+271	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium sensu stricto 1	
+270	Bacteria	Firmicutes	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Dialister	
+270	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	amylovorus
+270	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium sensu stricto 1	
+269	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	sanguinis
+269	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium sensu stricto 1	
+268	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Terrisporobacter	
+267	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	
+266	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	amylovorus
+264	Bacteria	Firmicutes	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Dialister	
+262	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Succinivibrionaceae	Succinivibrionaceae UCG-001	
+262	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	alactolyticus
+262	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	
+260	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Terrisporobacter	
+259	Bacteria	Firmicutes	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Dialister	
+258	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Succinivibrionaceae	Succinivibrionaceae UCG-001	
+258	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Terrisporobacter	
+258	Bacteria	Firmicutes	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Dialister	
+258	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	porci
+258	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium sensu stricto 1	
+257	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	
+255	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	sanguinis
+255	Bacteria	Firmicutes	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Dialister	
+254	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	alactolyticus
+253	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	
+253	Bacteria	Firmicutes	Bacilli	Erysipelotrichales	Erysipelotrichaceae	Turicibacter	sanguinis
+253	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium sensu stricto 1	
+251	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium sensu stricto 1	
+251	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium sensu stricto 1	
+250	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	
+250	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	
+250	Bacteria	Firmicutes	Bacilli	Erysipelotrichales	Erysipelotrichaceae	Turicibacter	sanguinis
+250	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	amylovorus
+249	Bacteria	Firmicutes	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Dialister	
+249	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	porci
+248	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	amylovorus
+247	Bacteria	Firmicutes	Bacilli	Lactobacillales	Carnobacteriaceae	Isobaculum	
+246	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	amylovorus
+245	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	amylovorus
+244	Bacteria	Firmicutes	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Dialister	
+242	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	
+241	Bacteria	Firmicutes	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Dialister	
+241	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium sensu stricto 1	
+240	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	
+239	Bacteria	Firmicutes	Bacilli	Erysipelotrichales	Erysipelotrichaceae	Turicibacter	sanguinis
+239	Bacteria	Firmicutes	Bacilli	Erysipelotrichales	Erysipelotrichaceae	Turicibacter	sanguinis
+239	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	porci
+238	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	alactolyticus
+237	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	alactolyticus
+237	Bacteria	Firmicutes	Bacilli	Erysipelotrichales	Erysipelotrichaceae	Turicibacter	sanguinis
+236	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	sanguinis
+235	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	porci
+234	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	alactolyticus
+234	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium sensu stricto 1	
+233	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	amylovorus
+233	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium sensu stricto 1	
+233	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium sensu stricto 1	
+232	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Terrisporobacter	
+232	Bacteria	Firmicutes	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Dialister	
+232	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	amylovorus
+232	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium sensu stricto 1	
+231	Bacteria	Firmicutes	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Dialister	
+230	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Terrisporobacter	
+230	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	porci
+230	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	amylovorus
+229	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	alactolyticus
+229	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium sensu stricto 1	
+228	Bacteria	Firmicutes	Bacilli	Erysipelotrichales	Erysipelotrichaceae	Turicibacter	sanguinis
+228	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium sensu stricto 1	
+227	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Succinivibrionaceae	Succinivibrionaceae UCG-001	
+227	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Terrisporobacter	
+227	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium sensu stricto 1	
+226	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Terrisporobacter	
+226	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	amylovorus
+225	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Succinivibrionaceae	Succinivibrionaceae UCG-001	
+225	Bacteria	Firmicutes	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Dialister	
+224	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	sanguinis
+224	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	
+224	Bacteria	Firmicutes	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Dialister	
+224	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	
+223	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Succinivibrionaceae	Succinivibrionaceae UCG-001	
+221	Bacteria	Firmicutes	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Dialister	
+220	Bacteria	Firmicutes	Bacilli	Lactobacillales	Carnobacteriaceae	Isobaculum	
+219	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	alactolyticus
+219	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	amylovorus
+219	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium sensu stricto 1	
+217	Bacteria	Firmicutes	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Dialister	
+215	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	
+215	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	alactolyticus
+214	Bacteria	Actinobacteriota	Actinobacteria	Micrococcales	Micrococcaceae	Rothia	nasimurium
+214	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium sensu stricto 1	
+213	Bacteria	Firmicutes	Bacilli	Erysipelotrichales	Erysipelotrichaceae	Turicibacter	sanguinis
+213	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium sensu stricto 1	
+212	Bacteria	Actinobacteriota	Actinobacteria	Micrococcales	Micrococcaceae	Rothia	nasimurium
+211	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	alactolyticus
+211	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	alactolyticus
+211	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium sensu stricto 1	
+210	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Terrisporobacter	
+208	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium sensu stricto 1	
+207	Bacteria	Firmicutes	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Dialister	
+206	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	sanguinis
+206	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	
+206	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Terrisporobacter	
+206	Bacteria	Firmicutes	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Dialister	
+206	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	amylovorus
+205	Bacteria	Actinobacteriota	Actinobacteria	Micrococcales	Micrococcaceae	Rothia	nasimurium
+205	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Succinivibrionaceae	Succinivibrionaceae UCG-001	
+205	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Terrisporobacter	
+205	Bacteria	Firmicutes	Bacilli	Lactobacillales	Carnobacteriaceae	Isobaculum	
+204	Bacteria	Firmicutes	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Dialister	
+204	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	
+204	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium sensu stricto 1	
+203	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	
+202	Bacteria	Firmicutes	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Dialister	
+202	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium sensu stricto 1	
+201	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	sanguinis
+201	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	amylovorus
+200	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	
+200	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	alactolyticus
+199	Bacteria	Firmicutes	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Dialister	
+199	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium sensu stricto 1	
+198	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	amylovorus
+197	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	
+196	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Terrisporobacter	
+196	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	amylovorus
+195	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	alactolyticus
+195	Bacteria	Firmicutes	Bacilli	Erysipelotrichales	Erysipelotrichaceae	Turicibacter	sanguinis
+194	Bacteria	Firmicutes	Bacilli	Erysipelotrichales	Erysipelotrichaceae	Turicibacter	sanguinis
+193	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Terrisporobacter	
+193	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Terrisporobacter	
+192	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Succinivibrionaceae	Succinivibrionaceae UCG-001	
+191	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	sanguinis
+191	Bacteria	Firmicutes	Bacilli	Lactobacillales	Carnobacteriaceae	Isobaculum	
+190	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Terrisporobacter	
+190	Bacteria	Firmicutes	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Dialister	
+190	Bacteria	Firmicutes	Bacilli	Erysipelotrichales	Erysipelotrichaceae	Turicibacter	sanguinis
+190	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	amylovorus
+189	Bacteria	Firmicutes	Bacilli	Erysipelotrichales	Erysipelotrichaceae	Turicibacter	sanguinis
+188	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	
+188	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	
+187	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	sanguinis
+187	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium sensu stricto 1	
+186	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	
+186	Bacteria	Firmicutes	Bacilli	Erysipelotrichales	Erysipelotrichaceae	Turicibacter	sanguinis
+186	Bacteria	Firmicutes	Bacilli	Erysipelotrichales	Erysipelotrichaceae	Turicibacter	sanguinis
+185	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	
+185	Bacteria	Firmicutes	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Dialister	
+185	Bacteria	Firmicutes	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Dialister	
+185	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	amylovorus
+185	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium sensu stricto 1	
+184	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	
+184	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	
+184	Bacteria	Firmicutes	Bacilli	Erysipelotrichales	Erysipelotrichaceae	Turicibacter	sanguinis
+184	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium sensu stricto 1	
+183	Bacteria	Actinobacteriota	Actinobacteria	Micrococcales	Micrococcaceae	Rothia	nasimurium
+183	Bacteria	Firmicutes	Bacilli	Erysipelotrichales	Erysipelotrichaceae	Turicibacter	sanguinis
+183	Bacteria	Firmicutes	Bacilli	Erysipelotrichales	Erysipelotrichaceae	Turicibacter	sanguinis
+183	Bacteria	Firmicutes	Bacilli	Erysipelotrichales	Erysipelotrichaceae	Turicibacter	sanguinis
+182	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	sanguinis
+182	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium sensu stricto 1	
+181	Bacteria	Actinobacteriota	Actinobacteria	Micrococcales	Micrococcaceae	Rothia	nasimurium
+181	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	amylovorus
+181	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium sensu stricto 1	
+180	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	
+180	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	sanguinis
+179	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	amylovorus
+178	Bacteria	Firmicutes	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Dialister	
+178	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	alactolyticus
+177	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Succinivibrionaceae	Succinivibrionaceae UCG-001	
+177	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	sanguinis
+177	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium sensu stricto 1	
+176	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Succinivibrionaceae	Succinivibrionaceae UCG-001	
+175	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	
+175	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Terrisporobacter	
+175	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Terrisporobacter	
+175	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	alactolyticus
+175	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	alactolyticus
+175	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium sensu stricto 1	
+175	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium sensu stricto 1	
+174	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	
+174	Bacteria	Firmicutes	Bacilli	Erysipelotrichales	Erysipelotrichaceae	Turicibacter	sanguinis
+174	Bacteria	Firmicutes	Bacilli	Lactobacillales	Carnobacteriaceae	Isobaculum	
+173	Bacteria	Firmicutes	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Dialister	
+173	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	porci
+172	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Succinivibrionaceae	Succinivibrionaceae UCG-001	
+172	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	sanguinis
+172	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	amylovorus
+171	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Terrisporobacter	
+171	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Terrisporobacter	
+171	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	
+171	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium sensu stricto 1	
+170	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium sensu stricto 1	
+169	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium sensu stricto 1	
+168	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Terrisporobacter	
+168	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	porci
+167	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	sanguinis
+167	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	
+167	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	alactolyticus
+167	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	amylovorus
+167	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium sensu stricto 1	
+164	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	sanguinis
+164	Bacteria	Firmicutes	Bacilli	Erysipelotrichales	Erysipelotrichaceae	Turicibacter	sanguinis
+164	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium sensu stricto 1	
+163	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	sanguinis
+163	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Terrisporobacter	
+163	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	
+162	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Terrisporobacter	
+162	Bacteria	Firmicutes	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Dialister	
+162	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	
+161	Bacteria	Actinobacteriota	Actinobacteria	Micrococcales	Micrococcaceae	Rothia	nasimurium
+161	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	
+161	Bacteria	Firmicutes	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Dialister	
+161	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	amylovorus
+161	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium sensu stricto 1	
+160	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Terrisporobacter	
+159	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	alactolyticus
+159	Bacteria	Firmicutes	Bacilli	Lactobacillales	Carnobacteriaceae	Isobaculum	
+159	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium sensu stricto 1	
+158	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	
+157	Bacteria	Firmicutes	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Dialister	
+156	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Terrisporobacter	
+156	Bacteria	Firmicutes	Bacilli	Erysipelotrichales	Erysipelotrichaceae	Turicibacter	sanguinis
+156	Bacteria	Firmicutes	Bacilli	Lactobacillales	Carnobacteriaceae	Isobaculum	
+155	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Succinivibrionaceae	Succinivibrionaceae UCG-001	
+155	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	alactolyticus
+155	Bacteria	Firmicutes	Bacilli	Erysipelotrichales	Erysipelotrichaceae	Turicibacter	sanguinis
+155	Bacteria	Firmicutes	Bacilli	Lactobacillales	Carnobacteriaceae	Isobaculum	
+154	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	sanguinis
+154	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Terrisporobacter	
+153	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	sanguinis
+153	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Terrisporobacter	
+153	Bacteria	Firmicutes	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Dialister	
+153	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	alactolyticus
+153	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium sensu stricto 1	
+152	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	sanguinis
+152	Bacteria	Firmicutes	Bacilli	Erysipelotrichales	Erysipelotrichaceae	Turicibacter	sanguinis
+151	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	alactolyticus
+150	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	sanguinis
+150	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Terrisporobacter	
+150	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	alactolyticus
+150	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	porci
+150	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium sensu stricto 1	
+149	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Succinivibrionaceae	Succinivibrionaceae UCG-001	
+149	Bacteria	Firmicutes	Bacilli	Erysipelotrichales	Erysipelotrichaceae	Turicibacter	sanguinis
+149	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	porci
+149	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	amylovorus
+147	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Succinivibrionaceae	Succinivibrionaceae UCG-001	
+146	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium sensu stricto 1	
+145	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium sensu stricto 1	
+144	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	
+144	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Terrisporobacter	
+144	Bacteria	Firmicutes	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Dialister	
+143	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	
+143	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Terrisporobacter	
+142	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Succinivibrionaceae	Succinivibrionaceae UCG-001	
+142	Bacteria	Firmicutes	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Dialister	
+142	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	alactolyticus
+142	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	
+142	Bacteria	Firmicutes	Bacilli	Lactobacillales	Carnobacteriaceae	Isobaculum	
+141	Bacteria	Firmicutes	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Dialister	
+141	Bacteria	Firmicutes	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Dialister	
+141	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	alactolyticus
+140	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Succinivibrionaceae	Succinivibrionaceae UCG-001	
+140	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Terrisporobacter	
+140	Bacteria	Firmicutes	Bacilli	Erysipelotrichales	Erysipelotrichaceae	Turicibacter	sanguinis
+140	Bacteria	Firmicutes	Bacilli	Lactobacillales	Carnobacteriaceae	Isobaculum	
+139	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Terrisporobacter	
+139	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Terrisporobacter	
+139	Bacteria	Firmicutes	Bacilli	Erysipelotrichales	Erysipelotrichaceae	Turicibacter	sanguinis
+138	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	
+138	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	
+138	Bacteria	Firmicutes	Bacilli	Lactobacillales	Carnobacteriaceae	Isobaculum	
+137	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	sanguinis
+137	Bacteria	Firmicutes	Bacilli	Erysipelotrichales	Erysipelotrichaceae	Turicibacter	sanguinis
+136	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	
+135	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Terrisporobacter	
+135	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	alactolyticus
+135	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	porci
+134	Bacteria	Firmicutes	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Dialister	
+134	Bacteria	Firmicutes	Bacilli	Lactobacillales	Carnobacteriaceae	Isobaculum	
+133	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Terrisporobacter	
+133	Bacteria	Firmicutes	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Dialister	
+133	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	alactolyticus
+132	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	
+132	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Terrisporobacter	
+131	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Terrisporobacter	
+130	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Succinivibrionaceae	Succinivibrionaceae UCG-001	
+130	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Terrisporobacter	
+130	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	porci
+129	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Succinivibrionaceae	Succinivibrionaceae UCG-001	
+129	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Terrisporobacter	
+129	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Terrisporobacter	
+129	Bacteria	Firmicutes	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Dialister	
+127	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Succinivibrionaceae	Succinivibrionaceae UCG-001	
+126	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Terrisporobacter	
+126	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	amylovorus
+126	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	amylovorus
+125	Bacteria	Actinobacteriota	Actinobacteria	Micrococcales	Micrococcaceae	Rothia	nasimurium
+125	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Terrisporobacter	
+125	Bacteria	Firmicutes	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Dialister	
+125	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	alactolyticus
+125	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium sensu stricto 1	
+124	Bacteria	Firmicutes	Bacilli	Erysipelotrichales	Erysipelotrichaceae	Turicibacter	sanguinis
+124	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	porci
+123	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	
+123	Bacteria	Firmicutes	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Dialister	
+122	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	sanguinis
+122	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	porci
+121	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	
+120	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	porci
+120	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium sensu stricto 1	
+118	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	sanguinis
+118	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Terrisporobacter	
+118	Bacteria	Firmicutes	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Dialister	
+117	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	
+117	Bacteria	Firmicutes	Bacilli	Lactobacillales	Carnobacteriaceae	Isobaculum	
+116	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Succinivibrionaceae	Succinivibrionaceae UCG-001	
+116	Bacteria	Firmicutes	Bacilli	Erysipelotrichales	Erysipelotrichaceae	Turicibacter	sanguinis
+115	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	
+113	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Succinivibrionaceae	Succinivibrionaceae UCG-001	
+113	Bacteria	Firmicutes	Bacilli	Erysipelotrichales	Erysipelotrichaceae	Turicibacter	sanguinis
+112	Bacteria	Actinobacteriota	Actinobacteria	Micrococcales	Micrococcaceae	Rothia	nasimurium
+112	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Succinivibrionaceae	Succinivibrionaceae UCG-001	
+112	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	
+112	Bacteria	Firmicutes	Bacilli	Erysipelotrichales	Erysipelotrichaceae	Turicibacter	sanguinis
+112	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	
+111	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	alactolyticus
+111	Bacteria	Firmicutes	Bacilli	Erysipelotrichales	Erysipelotrichaceae	Turicibacter	sanguinis
+111	Bacteria	Firmicutes	Bacilli	Erysipelotrichales	Erysipelotrichaceae	Turicibacter	sanguinis
+110	Bacteria	Firmicutes	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Dialister	
+110	Bacteria	Firmicutes	Bacilli	Erysipelotrichales	Erysipelotrichaceae	Turicibacter	sanguinis
+109	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Succinivibrionaceae	Succinivibrionaceae UCG-001	
+109	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	
+109	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	amylovorus
+108	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	
+108	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	alactolyticus
+108	Bacteria	Firmicutes	Bacilli	Erysipelotrichales	Erysipelotrichaceae	Turicibacter	sanguinis
+107	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	
+107	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Succinivibrionaceae	Succinivibrionaceae UCG-001	
+107	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Terrisporobacter	
+107	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Terrisporobacter	
+107	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	
+105	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	
+105	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Terrisporobacter	
+105	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Terrisporobacter	
+105	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	porci
+105	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	porci
+105	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	amylovorus
+104	Bacteria	Firmicutes	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Dialister	
+102	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	amylovorus
+101	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Terrisporobacter	
+100	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	
+100	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Terrisporobacter	
+100	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	alactolyticus
+100	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	alactolyticus
+100	Bacteria	Firmicutes	Bacilli	Lactobacillales	Carnobacteriaceae	Isobaculum	
+99	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	
+99	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Succinivibrionaceae	Succinivibrionaceae UCG-001	
+99	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	
+99	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Terrisporobacter	
+99	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	
+99	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	amylovorus
+98	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Terrisporobacter	
+98	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	alactolyticus
+98	Bacteria	Firmicutes	Bacilli	Erysipelotrichales	Erysipelotrichaceae	Turicibacter	sanguinis
+98	Bacteria	Firmicutes	Bacilli	Erysipelotrichales	Erysipelotrichaceae	Turicibacter	sanguinis
+98	Bacteria	Firmicutes	Bacilli	Erysipelotrichales	Erysipelotrichaceae	Turicibacter	sanguinis
+97	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	
+97	Bacteria	Firmicutes	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Dialister	
+96	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	
+96	Bacteria	Firmicutes	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Dialister	
+95	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	
+95	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	sanguinis
+95	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Terrisporobacter	
+95	Bacteria	Firmicutes	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Dialister	
+94	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Terrisporobacter	
+94	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	
+93	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	sanguinis
+93	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	alactolyticus
+93	Bacteria	Firmicutes	Bacilli	Erysipelotrichales	Erysipelotrichaceae	Turicibacter	sanguinis
+92	Bacteria	Firmicutes	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Dialister	
+92	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	alactolyticus
+91	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	
+91	Bacteria	Firmicutes	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Dialister	
+91	Bacteria	Firmicutes	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Dialister	
+91	Bacteria	Firmicutes	Bacilli	Lactobacillales	Carnobacteriaceae	Isobaculum	
+90	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	
+89	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	
+89	Bacteria	Firmicutes	Bacilli	Erysipelotrichales	Erysipelotrichaceae	Turicibacter	sanguinis
+88	Bacteria	Firmicutes	Bacilli	Erysipelotrichales	Erysipelotrichaceae	Turicibacter	sanguinis
+88	Bacteria	Firmicutes	Bacilli	Lactobacillales	Carnobacteriaceae	Isobaculum	
+87	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	sanguinis
+87	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	alactolyticus
+87	Bacteria	Firmicutes	Bacilli	Erysipelotrichales	Erysipelotrichaceae	Turicibacter	sanguinis
+86	Bacteria	Firmicutes	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Dialister	
+86	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	alactolyticus
+86	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium sensu stricto 1	
+84	Bacteria	Firmicutes	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Dialister	
+84	Bacteria	Firmicutes	Bacilli	Lactobacillales	Carnobacteriaceae	Isobaculum	
+83	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	
+83	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	sanguinis
+83	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Terrisporobacter	
+82	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	
+81	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Succinivibrionaceae	Succinivibrionaceae UCG-001	
+81	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Terrisporobacter	
+80	Bacteria	Firmicutes	Bacilli	Erysipelotrichales	Erysipelotrichaceae	Turicibacter	sanguinis
+80	Bacteria	Firmicutes	Bacilli	Erysipelotrichales	Erysipelotrichaceae	Turicibacter	sanguinis
+79	Bacteria	Firmicutes	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Dialister	
+78	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	
+78	Bacteria	Firmicutes	Bacilli	Erysipelotrichales	Erysipelotrichaceae	Turicibacter	sanguinis
+77	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Succinivibrionaceae	Succinivibrionaceae UCG-001	
+77	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	
+77	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Terrisporobacter	
+77	Bacteria	Firmicutes	Bacilli	Erysipelotrichales	Erysipelotrichaceae	Turicibacter	sanguinis
+76	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	alactolyticus
+76	Bacteria	Firmicutes	Bacilli	Erysipelotrichales	Erysipelotrichaceae	Turicibacter	sanguinis
+75	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	sanguinis
+75	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	sanguinis
+75	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	alactolyticus
+75	Bacteria	Firmicutes	Bacilli	Erysipelotrichales	Erysipelotrichaceae	Turicibacter	sanguinis
+75	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	porci
+75	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	
+74	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Terrisporobacter	
+73	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	sanguinis
+73	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	sanguinis
+72	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	alactolyticus
+72	Bacteria	Firmicutes	Bacilli	Erysipelotrichales	Erysipelotrichaceae	Turicibacter	sanguinis
+72	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	
+71	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	sanguinis
+71	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	porci
+71	Bacteria	Firmicutes	Bacilli	Lactobacillales	Carnobacteriaceae	Isobaculum	
+71	Bacteria	Firmicutes	Bacilli	Lactobacillales	Carnobacteriaceae	Isobaculum	
+69	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	alactolyticus
+68	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	sanguinis
+68	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Terrisporobacter	
+68	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	alactolyticus
+67	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Succinivibrionaceae	Succinivibrionaceae UCG-001	
+67	Bacteria	Firmicutes	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Dialister	
+67	Bacteria	Firmicutes	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Dialister	
+67	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	alactolyticus
+67	Bacteria	Firmicutes	Bacilli	Erysipelotrichales	Erysipelotrichaceae	Turicibacter	sanguinis
+67	Bacteria	Firmicutes	Bacilli	Lactobacillales	Carnobacteriaceae	Isobaculum	
+66	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	
+66	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	
+66	Bacteria	Firmicutes	Bacilli	Erysipelotrichales	Erysipelotrichaceae	Turicibacter	sanguinis
+64	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	
+64	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Succinivibrionaceae	Succinivibrionaceae UCG-001	
+64	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	alactolyticus
+64	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	
+63	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	
+61	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	
+61	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Terrisporobacter	
+61	Bacteria	Firmicutes	Bacilli	Erysipelotrichales	Erysipelotrichaceae	Turicibacter	sanguinis
+61	Bacteria	Firmicutes	Bacilli	Erysipelotrichales	Erysipelotrichaceae	Turicibacter	sanguinis
+60	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	sanguinis
+60	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	
+59	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	
+59	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Terrisporobacter	
+59	Bacteria	Firmicutes	Bacilli	Erysipelotrichales	Erysipelotrichaceae	Turicibacter	sanguinis
+58	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	porci
+57	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	
+56	Bacteria	Firmicutes	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Dialister	
+56	Bacteria	Firmicutes	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Dialister	
+56	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	porci
+56	Bacteria	Firmicutes	Bacilli	Lactobacillales	Carnobacteriaceae	Isobaculum	
+56	Bacteria	Firmicutes	Bacilli	Lactobacillales	Carnobacteriaceae	Isobaculum	
+55	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	
+55	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	
+55	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Terrisporobacter	
+54	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	
+53	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	
+52	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	
+52	Bacteria	Firmicutes	Bacilli	Erysipelotrichales	Erysipelotrichaceae	Turicibacter	sanguinis
+51	Bacteria	Firmicutes	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Dialister	
+51	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	alactolyticus
+51	Bacteria	Firmicutes	Bacilli	Erysipelotrichales	Erysipelotrichaceae	Turicibacter	sanguinis
+50	Bacteria	Actinobacteriota	Actinobacteria	Micrococcales	Micrococcaceae	Rothia	nasimurium
+50	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	alactolyticus
+50	Bacteria	Firmicutes	Bacilli	Erysipelotrichales	Erysipelotrichaceae	Turicibacter	sanguinis
+50	Bacteria	Firmicutes	Bacilli	Lactobacillales	Carnobacteriaceae	Isobaculum	
+49	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	sanguinis
+48	Bacteria	Actinobacteriota	Actinobacteria	Micrococcales	Micrococcaceae	Rothia	nasimurium
+48	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Succinivibrionaceae	Succinivibrionaceae UCG-001	
+48	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Succinivibrionaceae	Succinivibrionaceae UCG-001	
+48	Bacteria	Firmicutes	Bacilli	Lactobacillales	Carnobacteriaceae	Isobaculum	
+47	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	
+47	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	
+47	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	alactolyticus
+47	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	alactolyticus
+47	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	
+46	Bacteria	Firmicutes	Bacilli	Erysipelotrichales	Erysipelotrichaceae	Turicibacter	sanguinis
+46	Bacteria	Firmicutes	Bacilli	Erysipelotrichales	Erysipelotrichaceae	Turicibacter	sanguinis
+46	Bacteria	Firmicutes	Bacilli	Erysipelotrichales	Erysipelotrichaceae	Turicibacter	sanguinis
+45	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	
+45	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	
+45	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	alactolyticus
+44	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	
+43	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	
+43	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	
+42	Bacteria	Firmicutes	Bacilli	Erysipelotrichales	Erysipelotrichaceae	Turicibacter	sanguinis
+42	Bacteria	Firmicutes	Bacilli	Lactobacillales	Carnobacteriaceae	Isobaculum	
+42	Bacteria	Firmicutes	Bacilli	Lactobacillales	Carnobacteriaceae	Isobaculum	
+42	Bacteria	Firmicutes	Bacilli	Lactobacillales	Carnobacteriaceae	Isobaculum	
+41	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Succinivibrionaceae	Succinivibrionaceae UCG-001	
+41	Bacteria	Firmicutes	Bacilli	Erysipelotrichales	Erysipelotrichaceae	Turicibacter	sanguinis
+41	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	
+40	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	alactolyticus
+40	Bacteria	Firmicutes	Bacilli	Erysipelotrichales	Erysipelotrichaceae	Turicibacter	sanguinis
+40	Bacteria	Firmicutes	Bacilli	Lactobacillales	Carnobacteriaceae	Isobaculum	
+40	Bacteria	Firmicutes	Bacilli	Lactobacillales	Carnobacteriaceae	Isobaculum	
+39	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	
+39	Bacteria	Firmicutes	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Dialister	
+39	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	alactolyticus
+38	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	sanguinis
+38	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Terrisporobacter	
+37	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	alactolyticus
+37	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	porci
+36	Bacteria	Actinobacteriota	Actinobacteria	Micrococcales	Micrococcaceae	Rothia	nasimurium
+36	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	sanguinis
+36	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	
+36	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	
+35	Bacteria	Actinobacteriota	Actinobacteria	Micrococcales	Micrococcaceae	Rothia	nasimurium
+35	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	
+35	Bacteria	Firmicutes	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Dialister	
+35	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	alactolyticus
+34	Bacteria	Firmicutes	Bacilli	Erysipelotrichales	Erysipelotrichaceae	Turicibacter	sanguinis
+32	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	sanguinis
+32	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	
+31	Bacteria	Actinobacteriota	Actinobacteria	Micrococcales	Micrococcaceae	Rothia	nasimurium
+31	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	
+31	Bacteria	Firmicutes	Bacilli	Lactobacillales	Carnobacteriaceae	Isobaculum	
+30	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	
+30	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	
+30	Bacteria	Firmicutes	Bacilli	Lactobacillales	Carnobacteriaceae	Isobaculum	
+29	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	
+29	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Succinivibrionaceae	Succinivibrionaceae UCG-001	
+29	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	
+29	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	alactolyticus
+29	Bacteria	Firmicutes	Bacilli	Lactobacillales	Carnobacteriaceae	Isobaculum	
+29	Bacteria	Firmicutes	Bacilli	Lactobacillales	Carnobacteriaceae	Isobaculum	
+28	Bacteria	Firmicutes	Bacilli	Erysipelotrichales	Erysipelotrichaceae	Turicibacter	sanguinis
+27	Bacteria	Firmicutes	Bacilli	Erysipelotrichales	Erysipelotrichaceae	Turicibacter	sanguinis
+27	Bacteria	Firmicutes	Bacilli	Erysipelotrichales	Erysipelotrichaceae	Turicibacter	sanguinis
+26	Bacteria	Actinobacteriota	Actinobacteria	Micrococcales	Micrococcaceae	Rothia	nasimurium
+26	Bacteria	Firmicutes	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Dialister	
+26	Bacteria	Firmicutes	Bacilli	Erysipelotrichales	Erysipelotrichaceae	Turicibacter	sanguinis
+26	Bacteria	Firmicutes	Bacilli	Lactobacillales	Carnobacteriaceae	Isobaculum	
+25	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	
+25	Bacteria	Firmicutes	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Dialister	
+25	Bacteria	Firmicutes	Bacilli	Lactobacillales	Carnobacteriaceae	Isobaculum	
+24	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	
+23	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Succinivibrionaceae	Succinivibrionaceae UCG-001	
+23	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Succinivibrionaceae	Succinivibrionaceae UCG-001	
+23	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	sanguinis
+22	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	porci
+21	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	
+21	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	
+21	Bacteria	Firmicutes	Bacilli	Lactobacillales	Carnobacteriaceae	Isobaculum	
+20	Bacteria	Actinobacteriota	Actinobacteria	Micrococcales	Micrococcaceae	Rothia	nasimurium
+20	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	
+20	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	
+19	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	
+19	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	alactolyticus
+18	Bacteria	Actinobacteriota	Actinobacteria	Micrococcales	Micrococcaceae	Rothia	nasimurium
+18	Bacteria	Actinobacteriota	Actinobacteria	Micrococcales	Micrococcaceae	Rothia	nasimurium
+18	Bacteria	Actinobacteriota	Actinobacteria	Micrococcales	Micrococcaceae	Rothia	nasimurium
+18	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	
+17	Bacteria	Actinobacteriota	Actinobacteria	Micrococcales	Micrococcaceae	Rothia	nasimurium
+17	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Succinivibrionaceae	Succinivibrionaceae UCG-001	
+17	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	porci
+16	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Succinivibrionaceae	Succinivibrionaceae UCG-001	
+15	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Succinivibrionaceae	Succinivibrionaceae UCG-001	
+15	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	sanguinis
+15	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	alactolyticus
+14	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Succinivibrionaceae	Succinivibrionaceae UCG-001	
+14	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Succinivibrionaceae	Succinivibrionaceae UCG-001	
+14	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	porci
+13	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	alactolyticus
+13	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	alactolyticus
+13	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	alactolyticus
+13	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	alactolyticus
+12	Bacteria	Actinobacteriota	Actinobacteria	Micrococcales	Micrococcaceae	Rothia	nasimurium
+12	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	
+12	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	alactolyticus
+12	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	alactolyticus
+12	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	porci
+12	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	
+11	Bacteria	Actinobacteriota	Actinobacteria	Micrococcales	Micrococcaceae	Rothia	nasimurium
+11	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	
+11	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	alactolyticus
+11	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	alactolyticus
+11	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	porci
+10	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	
+10	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	
+10	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	
+9	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Succinivibrionaceae	Succinivibrionaceae UCG-001	
+9	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	
+9	Bacteria	Firmicutes	Bacilli	Lactobacillales	Carnobacteriaceae	Isobaculum	
+8	Bacteria	Actinobacteriota	Actinobacteria	Micrococcales	Micrococcaceae	Rothia	nasimurium
+8	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Succinivibrionaceae	Succinivibrionaceae UCG-001	
+8	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	sanguinis
+8	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	sanguinis
+7	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	sanguinis
+7	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	alactolyticus
+7	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	porci
+6	Bacteria	Actinobacteriota	Actinobacteria	Micrococcales	Micrococcaceae	Rothia	nasimurium
+6	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	sanguinis
+6	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	porci
+6	Bacteria	Firmicutes	Bacilli	Lactobacillales	Carnobacteriaceae	Isobaculum	
+6	Bacteria	Firmicutes	Bacilli	Lactobacillales	Carnobacteriaceae	Isobaculum	
+6	Bacteria	Firmicutes	Bacilli	Lactobacillales	Carnobacteriaceae	Isobaculum	
+5	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	sanguinis
+5	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	
+5	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	alactolyticus
+5	Bacteria	Firmicutes	Bacilli	Lactobacillales	Carnobacteriaceae	Isobaculum	
+5	Bacteria	Firmicutes	Bacilli	Lactobacillales	Carnobacteriaceae	Isobaculum	
+4	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Succinivibrionaceae	Succinivibrionaceae UCG-001	
+4	Bacteria	Firmicutes	Bacilli	Lactobacillales	Carnobacteriaceae	Isobaculum	
+3	Bacteria	Firmicutes	Bacilli	Lactobacillales	Carnobacteriaceae	Isobaculum	

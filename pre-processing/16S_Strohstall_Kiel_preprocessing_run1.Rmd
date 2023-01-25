@@ -1,0 +1,144 @@
+---
+title: "16S_Strohstall_Kiel_preprocessing"
+output: html_document
+---
+
+```{r setup}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+#log time for some benchmarking
+time.start <- Sys.time()
+```
+
+## Preliminary remarks
+The Fastq files were provided by the sequencing facility IKMB Kiel and contain demultiplexed Illumina MiSeq (2x 300) paired-end reads of the V1V2 region. The primers used were 27F & 338R resulting in an expected amplicon size of ~270bp.
+The presence of these primers has been checked before and they have already been removed from the sequences. A small fraction contains the reverse complements as read-throughs but they do not seem to interfere with the analysis.
+
+## Setup
+Preprocessing was performed in RStudio cloud on a server running under Ubuntu 18.04 with 72 CPUs.
+
+####Load packages
+```{r, warning=FALSE, message=FALSE}
+library(dada2); packageVersion("dada2")
+library(tidyverse); packageVersion("tidyverse")
+library(ShortRead); packageVersion("ShortRead")
+library(Biostrings); packageVersion("Biostrings")
+library(fastqcr); packageVersion("fastqcr")
+```
+#### set file path and extract sample names
+```{r}
+path <- "~/16S_R/16S_Strohstall_Kiel/run1" 
+fnFs <- sort(list.files(path, pattern="_R1_001.fastq", full.names = TRUE))
+fnRs <- sort(list.files(path, pattern="_R2_001.fastq", full.names = TRUE))
+# Extract sample names, assuming filenames have format: SAMPLENAME-XXX.fastq
+sample.names <- sapply(strsplit(basename(fnFs), "-"), `[`, 1)
+sample.names
+```
+
+#### Quality inspection
+Fastqc was used to inspect quality profiles of all samples. Multiqc was applied to create a single report for all forward and all reverse reads, respectively. Not all modules are relevant for amplicon data, therefore, we focus on 
+Read lengths, Sequence counts, Sequence Quality Histograms, and per Sequence Quality Scores.
+
+##### Read lengths
+All samples have an average read length of 301 bp as expected from the protocol.
+
+##### Sequence counts
+Only the negative controls have read counts below 10,000.
+
+##### Per Sequence Quality Scores
+Good for all except negative controls
+
+## Start DADA2 pipeline
+#### Filter and trim
+First, we filter and trim the raw reads based on quality measures. The trimming paramteres were chosen based on the multiqc reports and set were the mean Quality score for all samples (excluding negative controls) was above 30. Moreover, we trim the first 20 bases from the start to ensure no adapters haning around and remove first lower quality bases. With these settings, we will end up with fwd reads of length 230 and reverse reads of length 180. Given that the amplified region is 312bp, the overlap is ~100bp which should be enough for merging even when considering biological sequence length variation.
+
+```{r, cache=TRUE}
+# Place filtered files in filtered/ subdirectory
+filtFs <- file.path(path, "filtered", paste0(sample.names, "_F_filt.fastq.gz"))
+filtRs <- file.path(path, "filtered", paste0(sample.names, "_R_filt.fastq.gz"))
+names(filtFs) <- sample.names
+names(filtRs) <- sample.names
+
+out <- filterAndTrim(fnFs, filtFs, fnRs, filtRs, trimLeft=c(20,20), truncLen=c(250,200),
+              maxN=0, maxEE=c(2,5), truncQ=2, rm.phix=TRUE,
+              compress=TRUE, multithread=TRUE) 
+out
+```
+## Learn error rates
+```{r, cache=TRUE}
+errF <- learnErrors(filtFs, multithread=TRUE)
+errR <- learnErrors(filtRs, multithread=TRUE)
+plotErrors(errF, nominalQ=TRUE)
+plotErrors(errR, nominalQ=TRUE)
+```
+
+## Sample inference and merging
+```{r, cache=TRUE}
+dadaFs <- dada(filtFs, err=errF, multithread=TRUE)
+dadaRs <- dada(filtRs, err=errR, multithread=TRUE)
+mergers <- mergePairs(dadaFs, filtFs, dadaRs, filtRs, verbose=TRUE)
+```
+
+```{r}
+seqtab <- makeSequenceTable(mergers)
+dim(seqtab)
+```
+```{r}
+seqlen <- tibble(len = nchar(getSequences(seqtab)))
+ggplot(seqlen, aes(len)) +
+  geom_histogram(binwidth = 1)
+```
+There is a high variance in the sequence lengths but the peak falls in the expected amplicon length range.
+It may be due to non-specific priming and could be resolved by removing sequences that fall out of range.
+However, others have found similar results and an analysis of the V1V2 length variety in the XX database shows a similar distribution so it might be real biological variance. 
+![V1V2_distribution](ampliconvariation_V1V2.png)
+
+We keep all sequences for now and see how the taxonomic assignment performs.
+
+```{r}
+seqtab.nochim <- removeBimeraDenovo(seqtab, method="consensus", multithread=TRUE, verbose=TRUE)
+dim(seqtab.nochim)
+sum(seqtab.nochim)/sum(seqtab)
+```
+Only a small fraction of chimeric reads, looks good!
+
+## Track reads through pipeline
+For a final sanity check, let's see how many reads made it rhough each analysis step.
+```{r}
+getN <- function(x) sum(getUniques(x))
+
+readtrack <- data.frame(row.names=sample.names, input=out[,1],
+               filtered=out[,2], dada_f=sapply(dadaFs, getN),
+               dada_r=sapply(dadaRs, getN), merged=sapply(mergers, getN),
+               nonchim=rowSums(seqtab.nochim),
+               perc_retained=round(rowSums(seqtab.nochim)/out[,1]*100, 1))
+
+readtrack
+```
+```{r}
+median(readtrack$perc_retained)
+```
+
+In total, we kept an avergae of 64% of the initial reads, which is in a reasonable range. The majority of reads is lost in the filtering step as expected.
+
+We save the outputs as both R objects and regular files.
+
+```{r}
+# read track
+write.table(readtrack, file = "out/readtrack_run1_nocut.tsv", quote=FALSE, sep="\t", col.names=NA)
+# ASV count table
+save(seqtab.nochim, file = "out/seqtab_run1_nocut.RData")
+write.table(t(seqtab.nochim), file = "out/ASV_run1_nocut.tsv", sep="\t", row.names=TRUE, col.names=NA, quote=FALSE)
+
+```
+
+```{r}
+time.end <- Sys.time()
+runtime <- difftime(time.end, time.start, units = "auto")
+runtime
+```
+
+
+

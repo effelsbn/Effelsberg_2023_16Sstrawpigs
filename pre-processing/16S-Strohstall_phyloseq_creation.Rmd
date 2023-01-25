@@ -1,0 +1,49 @@
+---
+title: "phyloseq_creation"
+output: html_document
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, message = FALSE)
+```
+
+## Setup
+##### Load libraries
+```{r}
+R.version.string
+library(phyloseq)
+print(paste0("pyhloseq version: ", packageVersion("phyloseq")))
+library(tidyverse)
+print(paste0("tidyverse version: ", packageVersion("tidyverse")))
+library(Biostrings)
+print(paste0("Biostrings version: ", packageVersion("Biostrings")))
+```
+
+##### Load data
+```{r, echo = TRUE}
+load("../input/ASV_tab.RData")
+load("../input/DADA_taxonomy_incl_species.RData")
+metadata <- read.table("../input/metadata_16S_Strohstall.tsv", header = TRUE, sep = "\t", row.names = 1)
+```
+
+## Create Phyloseq object
+We create a phyloseq object that serves as a basis for all subsequent analyses. It contains the ASV-count table with abbreviated ASV-names, the taxonomic assignments for each ASV, the sequences of each ASV and the sample metadata.
+```{r}
+ps_original <- phyloseq(otu_table(ST, taxa_are_rows=FALSE),
+                        sample_data(metadata),
+                        tax_table(taxas))
+
+# create a ps object with short names for the ASVs as main object to work with
+# store sequences in refseq slot
+dna <- Biostrings::DNAStringSet(taxa_names(ps_original))
+names(dna) <- taxa_names(ps_original)
+ps <- merge_phyloseq(ps_original, dna)
+taxa_names(ps) <- paste0("ASV", seq(ntaxa(ps)))
+ps
+
+
+save(ps, file = "../input/phyloseq_original.RData")
+```
+
+

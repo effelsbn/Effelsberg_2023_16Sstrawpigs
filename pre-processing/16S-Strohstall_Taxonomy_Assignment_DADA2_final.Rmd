@@ -1,0 +1,46 @@
+---
+title: "16S-Strohstall-Taxonomy"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Preliminary remarks
+In this file we will combine the 2 sequence tables from the DADA2-workflow that was run separately for sequencing run1 and run2. After that, taxonomy is assigned and files for analysis of the microbial compostion will be prepared and exported.
+
+## Setup
+```{r, message=FALSE}
+library(dada2); packageVersion("dada2")
+library(DECIPHER); packageVersion("DECIPHER")
+```
+
+## Merging sequence tables
+```{r}
+load("seqtab_run1_nocut.RData")
+ST1 <- seqtab.nochim
+load("seqtab_run2_nocut.RData")
+ST2 <- seqtab.nochim
+rm(seqtab.nochim)
+
+ST <- mergeSequenceTables(ST1, ST2)
+```
+
+## Assign taxonomy with DADA2 and SILVA
+SILVA version 138.1 (10th March 2022)
+```{r}
+taxa <- assignTaxonomy(ST, "~/16S_R/taxonomy_databases/silva_nr99_v138.1_train_set.fa.gz", multithread=TRUE)
+taxas <- addSpecies(taxa, "~/16S_R/taxonomy_databases/silva_species_assignment_v138.1.fa.gz")
+```
+
+```{r}
+save(taxas, file = "DADA_taxonomy_incl_species.RData")
+save(taxa, file = "DADA_taxonomy_wo_species.RData")
+
+write.table(taxas, file = "DADA_taxonomy_incl_seqs.tsv", sep = "\t", quote=F, col.names=NA)
+```
+
+
+
+
