@@ -148,7 +148,7 @@ bars <- ggplot(phyla, aes(x = type, y = sum_abund, fill = Phylum)) +
     axis.title.y = element_text(size = 12, color = "black")
   )
 
-ggsave("paper/figures/phyla_barplot.tiff", width = 170, height = 120, units = "mm")
+ggsave("figures/phyla_barplot.tiff", width = 170, height = 120, units = "mm")
 
 # Create bump chart classes
 pig_tax_by_week <- psmelt(ps_pigs) %>%
@@ -191,7 +191,7 @@ bumps <- ggplot(pig_class_by_week_rank, mapping = (aes(x = week, y = Rank, color
     axis.title.y = element_text(size = 12, color = "black")
   )
 
-ggsave("paper/figures/class_bumps.tiff", width = 170, height = 120, units = "mm")
+ggsave("figures/class_bumps.tiff", width = 170, height = 120, units = "mm")
 
 ## Staphylococci
 
@@ -244,7 +244,7 @@ ggplot(staphs, aes(x = week, y = sum_rel_abund, group = source, color = type)) +
     axis.title.y = element_text(size = 12, color = "black")
   )
 
-ggsave("paper/figures/staphylococci.tiff", width = 170, height = 100, units = "mm")
+ggsave("figures/staphylococci.tiff", width = 170, height = 100, units = "mm")
 
 ## Diversity
 ps_pigs_rare <- rarefy_even_depth(ps_pigs, sample.size = min(sample_sums(ps_pigs)), rngseed = 17, replace = FALSE)
@@ -290,7 +290,7 @@ rcurve <- ggplot(curve_df, aes(x = n_seqs, y = value, group = Sample)) +
 rcurve + shannon / observed +
   plot_annotation(tag_levels = "A")
 
-ggsave("paper/figures/diversity_combined.tiff", width = 170, units = "mm")
+ggsave("figures/diversity_combined.tiff", width = 170, units = "mm")
 
 # Beta-Diversity
 
@@ -359,7 +359,7 @@ NMDS <- plot_ordination(ps_pigs, ord, color = "week") +
 NMDS / dayzero  +
   plot_annotation(tag_levels = "A")
 
-ggsave("paper/figures/beta_combined.tiff", width = 170, height = 200, units = "mm")
+ggsave("figures/beta_combined.tiff", width = 170, height = 200, units = "mm")
 
 ## Statistics
 
