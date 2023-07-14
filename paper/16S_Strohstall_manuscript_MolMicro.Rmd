@@ -3,10 +3,12 @@ output:
   word_document:
     reference_docx: word-styles-reference-Arial.docx
 bibliography: zotero_bib.json
-csl: biomed-central.csl
+csl: molecular-microbiology.csl
 ---
 
 ```{r setup, include=FALSE}
+
+here::i_am("paper/16S_Strohstall_manuscript_MolMicro.Rmd")
 
 library(knitr)
 library(here)
@@ -29,7 +31,7 @@ inline_hook <- function(x){
 knit_hooks$set(inline = inline_hook)
 ```
 
-# Effects of straw bedding on MRSA carriage and the nasal microbiota in pigs
+# Pilot study on nasal microbiota dynamics and MRSA carriage of a pig cohort housed on straw bedding
 
 N.\ Effelsberg^1^, I.\ Kobusch^2^, H.\ Schollenbruch^2^, S.\ Linnemann^2^, C.\ Bang^3^, A.\ Franke^3^, R.\ Köck^1,4^, M.\ Boelhauve^2^, A.\ Mellmann^1\*^
 
@@ -48,14 +50,11 @@ E-mail: mellmann@uni-muenster.de; T: +49 251 8355361; F: +49 251 8355341
 
 Keywords: porcine nasal microbiome, LA-MRSA, CC398, pig husbandry, microbial ecology
 
-Manuscript word count: xxx
 
 \newpage
 
 # Abstract
-**Background**: Methicillin-resistant *Staphylococcus aureus* (MRSA) can be transmitted between pigs and humans on farms. Hence, reduction of MRSA carriage in pigs could decrease the risk of zoonotic transmission. Recently, straw bedding has been found to significantly reduce MRSA carriage in pigs. The mechanisms behind this effect remain unclear but changes in the nasal microbiome may play a role.
-**Results**: In this exploratory study, the nasal microbiota of pigs kept on straw was examined using V1/V2 16S rRNA gene sequencing. Nasal swabs were collected from 13 pigs at six different time points during the course of a full fattening cycle resulting in 74 porcine samples. In addition, straw samples were collected at each time point. Eleven out of 13 pigs were MRSA-positive at housing-in. We found a strong temporal pattern in the microbial communities. Both microbial diversity and abundance of *Staphylococcus* species peaked in week 5 after introduction to the straw stable, decreased in week 10, when all pigs turned MRSA-negative, and increased again toward the end of the fattening period. 
-**Conclusion**: These findings show that the introduction of pigs into a new environment has a huge impact on their nasal microbiota which might lead to unfavorable conditions for MRSA. Moreover, other *Staphylococcus* species may play a role in eliminating MRSA carriage.
+Methicillin-resistant *Staphylococcus aureus* (MRSA) can be transmitted between pigs and humans on farms. Hence, reduction of MRSA carriage in pigs could decrease the risk of zoonotic transmission. Recently, straw bedding has been found to significantly reduce MRSA carriage in pigs. The mechanisms behind this effect remain unclear but changes in the nasal microbiome may play a role. In this exploratory study, the nasal microbiota of pigs kept on straw was examined using V1/V2 16S rRNA gene sequencing. Nasal swabs were collected from 13 pigs at six different time points during the course of a full fattening cycle resulting in 74 porcine samples. In addition, straw samples were collected at each time point. Eleven out of 13 pigs were MRSA-positive at housing-in. We found a strong temporal pattern in the microbial communities. Both microbial diversity and abundance of *Staphylococcus* species peaked in week 5 after introduction to the straw stable, decreased in week 10, when all pigs turned MRSA-negative, and increased again toward the end of the fattening period. These findings show that the introduction of pigs into a new environment has a huge impact on their nasal microbiota, which might lead to unfavorable conditions for MRSA. Moreover, other *Staphylococcus* species may play a role in eliminating MRSA carriage. We designed a follow-up study including two different husbandry systems to further assess these effects.
 
 \newpage
 
@@ -69,27 +68,10 @@ However, one promising approach is the husbandry on straw bedding. It has been s
 
 The respiratory microbiome of pigs has been studied a few times in recent years, as reviewed by Pirolo et al. [@pirolo2021], but is still relatively low characterized compared to other fields. In this exploratory study, we assessed the nasal microbiota of pigs kept on straw over a whole fattening period and examined whether changes in the microbial community correlate with MRSA carriage.
 
-# Material & Methods
-## Study population and sampling
-This observational, prospective cohort study was conducted among 13 pigs from two different pens on a conventional pig fattening farm with straw bedding barns in Western Germany. Samples were collected during a complete 14-week fattening cycle between November 2018 and February 2019. Piglets were purchased at a weight of about 25 kg from the same trader. In each pen, 60-63 pigs were housed that had *ad libitum* access to food (wet-dry-feeder) and water. The pens had flat concrete floors and one straw bale was placed in the center every 8-10 days and then distributed by the pigs. None of the included pigs received antibiotics during the fattening period. 
-Nasal samples were collected from all pigs directly before they entered the farm and in weeks 1, 5, 10, 11, and 14. Four of the 13 pigs were slaughtered before week 14, resulting in a total of 74 porcine samples. In addition, 13 straw samples (three in the beginning and one per sampling point and pen) were taken.
-Individual animals were tracked using ear transponders (MS Quick Transponder FDX, MS Shippers, Bladel, The Netherlands). Nasal samples were collected by swabbing the inner side of the nostrils (Isohelix SK-2 swab, Cell Projects Ltd., Harrietsham, UK). One swab was taken to assess MRSA carriage and one for microbial community analysis. All procedures were performed in accordance with animal welfare regulations. Cultural detection of MRSA was performed as previously described [@schollenbruch2021]. 
-
-## 16S rRNA gene sequencing
-DNA extraction and amplicon sequencing were performed at the IKMB sequencing facility of the Kiel University in Germany. Samples were stored at -20°C and shipped on dry ice. Genomic DNA was extracted using the QIAGEN PowerSoil pro Kit (QIAGEN, Venlo, the Netherlands) according to the manufacturer's recommendation. From the straw, one blade was cut into small pieces and put directly into the bead beating tube. Subsequently, the V1/V2 region of the 16S rRNA gene was amplified using primers 27F/338R [@caporaso2012] and sequenced on an Illumina MiSeq (Illumina Inc., San Diego, CA, USA) machine to generate 300 bp paired-end reads. Demultiplexing after sequencing was based on 0 mismatches in the barcode sequences. Water and extraction controls were included as negative and a commercial mock sample (ZymoBIOMICS Microbial Community DNA Standard, Zymo research, Irvine, CA, USA) as a positive control.
-
-## Bioinformatics
-All subsequent analyses were performed in R version 4.2.1 [@rcoreteam2022]. The DADA2 pipeline by Callahan et al. [@callahan2016] was applied to create amplicon sequence variants (ASVs). These were analyzed using various R packages including phyloseq [@mcmurdie2013], microbiome [@lahti2012], and vegan [@oksanen2022]. Controls were used to exclude contamination using decontam [@davis2018]. For diversity analysis, pig and straw samples were analyzed separately and samples were rarefied to the minimum read count per type. Different alpha- and beta-diversity metrics such as Shannon diversity [@shannon1948] and Bray-Curtis distances [@bray1957] were calculated using these packages. The plot_core function implemented in the microbiome package [@lahti2012] was used to define core microbiome thresholds.
-Raw sequences are deposited at the NCBI Sequence Read Archive under accession number PRJNA905368. All metadata and code can be found at https://github.com/effelsbn/Effelsberg_2023_16Sstrawpigs following recommendations for reproducible data analysis in microbiome research [@schloss2023].
-
 # Results
 ## MRSA carriage status over time
 Eleven out of 13 pigs were MRSA-positive at housing-in. All pigs were negative at week 10, although two pigs temporarily turned positive again at week 11. Most animals turned negative around week 5. Figure 1 shows the MRSA status of each individual and straw sample at all sampling time points.
 
-```{r fig.cap = "**Figure 1.** Culture-confirmed MRSA carriage status of 13 pigs kept on straw during a full 14-week fattening period. At each sampling point, straw samples were additionally analyzed."}
-include_graphics(here("paper", "figures", "fig1_mrsa_overview_export.jpg"))
-```
-  
 ```{r, include=FALSE}
 
 source(file = here("scripts", "results_16S_straw-paper.R"), local = knitr::knit_global())
@@ -115,7 +97,7 @@ n_genus <- as.integer(length(get_taxa_unique(ps, taxonomic.rank = "Genus"))-1)
 
 ## 16S rRNA gene sequencing
 In total, `r n_reads_total` reads were generated from `r n_samples_total` samples, including `r n_controls` controls, `r n_pigs` pig, and `r n_straw` straw samples. On average, `r mean_perc_retained`% of reads were retained after running through the DADA2 pipeline. After removal of controls and one pig sample with a very low read count, the median read count per sample was `r median_reads_per_sample` reads. Overall, `r ASV_total` different ASVs were found with a median number of `r median_ASVs_per_sample` ASVs per sample (IQR: `r as.integer(summary(rowSums(OTU != 0))[[2]])`-`r as.integer(summary(rowSums(OTU != 0))[[5]])`). These ASVs were mapped to `r n_phyla` phyla, `r n_family` families, and `r n_genus` genera, respectively.
-Using the included negative controls and the decontam package [@davis2018], `r sum(contamdf.prev$contaminant == TRUE)` ASVs were identified as potential contaminations. These ASVs were identified as *Staphylococcus*, *Diaphorobacter*, and *Bacteriodes* and occurred in `r n_samples_contam` different samples in very low abundances (2-28 reads per ASV). These ASVs were excluded from further analysis. Positive control samples were examined and compared to the theoretical composition of the mock communities. All species from the mock community were detected at least at the genus level but *Enterococcus* was underrepresented compared to the theoretical abundances.  
+Using the included negative controls and the decontam package [@davis2018], `r sum(contamdf.prev$contaminant == TRUE)` ASVs were identified as potential contaminations. These ASVs were identified as *Staphylococcus*, *Diaphorobacter*, and *Bacteriodes* and occurred in `r n_samples_contam` different samples in very low abundances (2-28 reads per ASV). These ASVs were excluded from further analysis. Positive control samples were examined and compared to the theoretical composition of the mock communities (Supplemental file S1). All species from the mock community were detected at least at the genus level but *Enterococcus* was underrepresented compared to the theoretical abundances.  
 
 ## Taxonomic composition
 
@@ -154,7 +136,7 @@ n_shared_ASVs <- as.integer(length(shared))
 
 ```
 
-The taxonomic composition was analyzed separately for straw and pig samples. Within all pig samples, `r n_genus_pigs` different genera belonging to `r n_family_pigs` families and `r n_phyla_pigs` phyla were detected, while in straw samples `r n_genus_straw`, `r n_family_straw`, and `r n_phyla_straw` genera, families, and phyla were found, respectively. In total, `r n_shared_ASVs` ASVs were shared between pig and straw samples. A detailed representation of the microbial communities by week visualized as krona plots can be found in Supplements 1 and 2.
+The taxonomic composition was analyzed separately for straw and pig samples. Within all pig samples, `r n_genus_pigs` different genera belonging to `r n_family_pigs` families and `r n_phyla_pigs` phyla were detected, while in straw samples `r n_genus_straw`, `r n_family_straw`, and `r n_phyla_straw` genera, families, and phyla were found, respectively. In total, `r n_shared_ASVs` ASVs were shared between pig and straw samples. A detailed representation of the microbial communities by week visualized as krona plots can be found in Supplemental files S2 and S3.
 Overall, the most abundant phyla (accounting for >5% relative abundance) in pig samples were `r top_phyla_pigs$Phylum[1]`, `r top_phyla_pigs$Phylum[2]`, `r top_phyla_pigs$Phylum[3]`, and `r top_phyla_pigs$Phylum[4]` accounting for `r percent(top_phyla_pigs$Rel_Abun[1])`, `r percent(top_phyla_pigs$Rel_Abun[2])`, `r percent(top_phyla_pigs$Rel_Abun[3])`, and `r percent(top_phyla_pigs$Rel_Abun[4])` of total relative abundance, respectively. The top three families in pig samples were *`r top_fam_pigs$Family[1]`* (`r percent(top_fam_pigs$Rel_Abun[1])`), *`r top_fam_pigs$Family[2]`* (`r percent(top_fam_pigs$Rel_Abun[2])`), and *`r top_fam_pigs$Family[3]`* (`r percent(top_fam_pigs$Rel_Abun[3])`). Table 1 shows the core taxa across all pig samples, which were defined as >0.5% relative abundance in at least 50% of the samples.
 
 ```{r}
@@ -167,44 +149,14 @@ core_table <- core_pigs_full %>%
 
 ```
 
-\newpage
-
-```{r}
-kable(core_table,
-      caption = "Table 1. Core taxa (>0.5% abundance in at least 50% of samples) in nasal pig samples.",
-      align = "l")
-```
-
 ## Temporal dynamics
-There was a shift in microbial composition over time. Prior to contact with the pigs, the initial straw microbiota mainly consisted of Proteobacteria and only very few Firmicutes. After one week, the pig and straw samples resembled but diversified again afterwards (Figure 2). Within the group of pigs, the predominant classes changed several times over the weeks (Figure 3).
-
-```{r fig.cap = "**Figure 2.** Bar plot showing relative abundances of the most abundant phyla in pig and straw samples for each sampling week."}
-include_graphics(here("paper", "figures", "phyla_barplot.tiff"))
-```
-
-```{r fig.cap = "**Figure 3.** Bump chart showing the 13 most abundant classes ranked by their relative abundance in pig samples per week (1 = highest & 10 = lowest relative abundance)."}
-include_graphics(here("paper", "figures", "class_bumps.tiff"))
-```
-
-The relative abundance of Actinobacteria and Gammaproteobacteria dropped from week 0 (introduction to the barn) to week 1 but re-emerged and was highest in weeks 10 and 14. More specifically, the abundance of staphylococcal species changed over time as well (Figure 4). While straw samples initially contained only very few staphylococci, their relative abundances rose remarkably after the pigs were housed-in and then decreased until weeks 10 to 11, when it increased again to about 10% relative abundance at the end of the fattening period. Although less strong, the relative abundance of staphylococci in pigs followed the same pattern. Depending on the individual pig, staphylococcal abundance peaked between weeks 1 and 5, was lowest in week 11 and then increased again in week 14.
-
-```{r fig.cap = "**Figure 4.** Line chart showing the relative abundance of staphylococci in porcine (pink) and straw (orange) samples per week. Thin lines show individual pigs or the pen from which straw was sampled, respectively. Bold lines indicate the trend line over all samples of the same type."}
-include_graphics(here("paper", "figures", "staphylococci.tiff"))
-```
+There was a shift in microbial composition over time. Prior to contact with the pigs, the initial straw microbiota mainly consisted of Proteobacteria and only very few Firmicutes. After one week, the pig and straw samples resembled but diversified again afterwards (Figure 2). 
+Within the group of pigs, the predominant classes changed several times over the weeks (Figure 3). The relative abundance of Actinobacteria and Gammaproteobacteria dropped from week 0 (introduction to the barn) to week 1 but re-emerged and was highest in weeks 10 and 14. More specifically, the abundance of staphylococcal species changed over time as well (Figure 4). While straw samples initially contained only very few staphylococci, their relative abundances rose remarkably after the pigs were housed-in and then decreased until weeks 10 to 11, when it increased again to about 10% relative abundance at the end of the fattening period. Although less strong, the relative abundance of staphylococci in pigs followed the same pattern. Depending on the individual pig, staphylococcal abundance peaked between weeks 1 and 5, was lowest in week 11 and then increased again in week 14.
 
 ## Diversity analysis
 There were no significant differences in alpha-diversity measures between MRSA-positive and -negative pig samples. However, alpha-diversity followed the same pattern over the weeks as staphylococcal abundance with being highest in week 5 and lowest in week 10. After rarefying to the minimum sequence depth of all pig samples (`r as.integer(min(sample_sums(ps_pigs)))`), the median richness was `r as.integer(median(alpha_pig_rare$observed))` (IQR: `r as.integer(summary(alpha_pig_rare$observed)[[2]])`-`r as.integer(summary(alpha_pig_rare$observed)[[5]])`) observed species per sample (Figure 5).
-
-```{r fig.cap = "**Figure 5.** Representation of alpha-diversity measures for pig samples. A) Rarefaction curve showing the number of unique ASVs detected at each sequencing depth. The orange line indicates the chosen rarefaction depth of 10,358. Boxplots representing the five-number summary show Shannon diversity (B) and observed species count (C) among all pig samples by sampling week. Outliers are marked as dots."}
-include_graphics(here("paper", "figures", "diversity_combined.tiff"))
-```
-
 A strong temporal effect was also found for beta-diversity. Non-metric multidimensional scaling (NMDS) of Bray-curtis distances showed a clear separation of week 0, week 1 and week 5 samples from the later samples. Pairwise adonis testing showed highly significant (p < 0.01) between-group differences in composition for all combinations except between weeks 10, 11 and 14 (Figure 6a).
-When comparing the distances of samples from each sampling point to day 0, the same pattern as for Shannon diversity and staphylococcal abundance occurred. The difference in microbial composition compared to housing in was highest in weeks 5 and 14 but dropped in between (Figure 6b).
-
-```{r fig.cap = "**Figure 6.** Representation of beta-diversity measures for pig samples. A) Non-metric multidimensional scaling (NMDS) of Bray-Curtis distances. Color and ellipses indicate the different sampling weeks. B) Line chart of Bray-Curtis distances between the communities at each sampling week and week 0 (housing in). Each shade of grey represents one individual pig. The bold orange line indicates the trend line over all samples."}
-include_graphics(here("paper", "figures", "beta_combined.tiff"))
-```
+When comparing the distances of samples from each sampling point to day 0, the same pattern as for Shannon diversity and staphylococcal abundance occurred. The difference in microbial composition compared to housing in was highest in weeks 5 and 14 but dropped in between (Figure 6b). The two outliers, i.e. the week 14 sample that clusters with week 00 and vice versa, belong to the same pig (H) but we did not find any other striking features with this individual. In particular, it had the same MRSA status progression (see Figure 1) and beta-diversity pattern as the average pig in the study.
 
 # Discussion
 In this study, the nasal microbiota of pigs housed on straw bedding and the straw itself were analyzed using 16S rRNA gene sequencing. We found a recurring temporal pattern in the changes of the microbial composition. While the microbiota of straw and pigs were initially very different, similar compositions were found in both sample types one week after pigs and straw came into contact. Interestingly, the relative abundance of the genus *Staphylococcus* increased considerably in both straw and pigs during the first weeks, decreased towards weeks 10 and 11, and increased again toward the end of the fattening period. The same pattern was found for alpha-diversity measures and Bray-Curtis distances in pig samples. There was a clear temporal signal in the microbial compositions with samples from weeks 0, 1, and 5 being more similar to each other than to samples from other sampling time points. Over all time points, the core microbiota of pigs consisted of different Firmicutes, *Moraxellaceae*, and *Rothia nasimurium*.
@@ -215,39 +167,67 @@ According to other studies, the upper respiratory microbiome of piglets changes 
 
 The core taxa identified in this study match what is described elsewhere in the literature [@pirolo2021], suggesting that straw bedding does not change the general core microbiota in pig snouts. Interestingly, the abundance of the genus *Staphylococcus* increased during the first weeks in both straw and pig samples. Unfortunately, the resolution of V1/V2 sequencing is too low to assess the involved species but the finding suggests that *Staphylococcus* species other than *S. aureus*, which might benefit from the interactions with straw, could have an outcompeting effect on MRSA carriage. A higher abundance of *Lactobacillus* and *Staphylococcus* in MRSA-negative compared to MRSA-positive pigs has been described before [@weese2014] but further investigation of this effect is still needed. Strube et al. reported that the genus *Staphylococcus* in the pig nasal microbiome is dominated by *S. equorum* [@strube2018]. In another study focusing on coagulase-negative staphylococci in pig farm environments, *S. sciuri* was the most common staphylococcal species in dust samples [@schoenfelder2017].
 
-In this exploratory study, we analyzed the nasal microbiota in straw-housed pigs. We have shown that the microbial composition is very dynamic and changes throughout the fattening period. The main limitation of this study is that only pigs kept on straw were analyzed. Thus, straw-induced changes cannot be distinguished from other changing factors such as the environment or age. It would be interesting to see how these dynamics and the general microbial composition differ between pigs kept on straw and conventionally housed pigs. Therefore, we are planning a comparative study with samples from pigs housed in a similar environment but with different bedding material. In addition, we found an interesting pattern in staphylococcal abundance over time. However, Illumina 16S rRNA gene sequencing is not sufficient to analyze the community at the species level. Therefore, we aim to use full-length 16S rRNA gene sequencing using long-read technology to assess the role of different staphylococcal species in the nasal microbiota of swine. Moreover, full shotgun sequencing as opposed to 16S profiling would offer additional insights as for example on presence of fungi or resistance markers.
+In this exploratory study, we analyzed the nasal microbiota in straw-housed pigs. We have shown that the microbial composition is very dynamic and changes throughout the fattening period. The main limitation of this study is that only pigs kept on straw were analyzed. Thus, straw-induced changes cannot be distinguished from other changing factors such as the environment or age. It would be interesting to see how these dynamics and the general microbial composition differ between pigs kept on straw and conventionally housed pigs. Therefore, we are planning a comparative study with samples from pigs housed in a similar environment but with different bedding material. To enhance the representativeness of the straw samples, we are planning to extract DNA from larger amounts of blended straw instead of single blades and include two more sampling sites per time point. Figure 7 shows the sampling scheme of this follow-up study. In addition, we found an interesting pattern in staphylococcal abundance over time. However, Illumina 16S rRNA gene sequencing is not sufficient to analyze the community at the species level. Therefore, we aim to use full-length 16S rRNA gene sequencing using long-read technology to assess the role of different staphylococcal species in the nasal microbiota of swine. Moreover, full shotgun sequencing as opposed to 16S profiling would offer additional insights as for example on presence of fungi or resistance markers. The presented pilot study suggests some interesting hypotheses, which should be assessed in such a follow-up study. In particular, we aim to verify if the temporal signatures observed in this study are replicable and if they are specific to straw housing. Further, we are planning to assess differences in diversity between straw-housed and conventionally kept pigs. Finally, we will assess whether certain phylotypes correlate with housing condition or MRSA carriage.
+
+# Experimental Procedures
+## Study population and sampling
+This observational, prospective cohort study was conducted among 13 pigs from two different pens on a conventional pig fattening farm with straw bedding barns in Western Germany. Samples were collected during a complete 14-week fattening cycle between November 2018 and February 2019. Piglets were purchased at a weight of about 25 kg from the same trader. In each pen, 60-63 pigs were housed that had *ad libitum* access to food (wet-dry-feeder) and water. The pens had flat concrete floors and one straw bale was placed in the center every 8-10 days and then distributed by the pigs. None of the included pigs received antibiotics during the fattening period. 
+Nasal samples were collected from all pigs directly before they entered the farm and in weeks 1, 5, 10, 11, and 14. Four of the 13 pigs were slaughtered before week 14, resulting in a total of 74 porcine samples. In addition, 13 straw samples (three in the beginning and one per sampling point and pen) were taken.
+Individual animals were tracked using ear transponders (MS Quick Transponder FDX, MS Shippers, Bladel, The Netherlands). Nasal samples were collected by swabbing the inner side of the nostrils (Isohelix SK-2 swab, Cell Projects Ltd., Harrietsham, UK). One swab was taken to assess MRSA carriage and one for microbial community analysis. All procedures were performed in accordance with animal welfare regulations. Cultural detection of MRSA was performed as previously described [@schollenbruch2021]. 
+
+## 16S rRNA gene sequencing
+DNA extraction and amplicon sequencing were performed at the IKMB sequencing facility of the Kiel University in Germany. Samples were stored at -20°C and shipped on dry ice. Genomic DNA was extracted using the QIAGEN PowerSoil pro Kit (QIAGEN, Venlo, the Netherlands) according to the manufacturer's recommendation. From the straw, one blade was cut into small pieces and put directly into the bead beating tube. Subsequently, the V1/V2 region of the 16S rRNA gene was amplified using primers 27F/338R [@caporaso2012] and sequenced on an Illumina MiSeq (Illumina Inc., San Diego, CA, USA) machine to generate 300 bp paired-end reads. Demultiplexing after sequencing was based on 0 mismatches in the barcode sequences. Water and extraction controls were included as negative and a commercial mock sample (ZymoBIOMICS Microbial Community DNA Standard, Zymo research, Irvine, CA, USA) as a positive control.
+
+## Bioinformatics
+All subsequent analyses were performed in R version 4.2.1 [@rcoreteam2022]. The DADA2 pipeline by Callahan et al. [@callahan2016] was applied to create amplicon sequence variants (ASVs). These were analyzed using various R packages including phyloseq [@mcmurdie2013], microbiome [@lahti2012], and vegan [@oksanen2022]. Controls were used to exclude contamination using decontam [@davis2018] with the “prevalence” method and a threshold of 0.5. For diversity analysis, pig and straw samples were analyzed separately and samples were rarefied to the minimum read count per type. Different alpha- and beta-diversity metrics such as Shannon diversity [@shannon1948] and Bray-Curtis distances [@bray1957] were calculated using these packages. The plot_core function implemented in the microbiome package [@lahti2012] was used to define core microbiome thresholds.
+Raw sequences are deposited at the NCBI Sequence Read Archive under accession number PRJNA905368. All metadata and code can be found at https://github.com/effelsbn/Effelsberg_2023_16Sstrawpigs following recommendations for reproducible data analysis in microbiome research [@schloss2023].
 
 \newpage
-# Declarations
 
-## Ethics approval and consent to participate
-Ethical review and approval were not required for this study according to the South Westphalia University of Applied Sciences guidelines. No animal was harmed or adversely affected. No invasive procedures were performed. Nasal swabbing was performed under quiet, particularly low-stress conditions.
+# Acknowledgement
+The authors would like to thank the participating farmers. Further, we would like to thank the staff of the IKMB microbiome laboratory for processing samples as well as IKMB sequencing facilities for excellent technical support.
 
-## Consent for publication
-Not applicable
-
-## Availability of data and material
-Raw sequences are deposited at the NCBI Sequence Read Archive under accession number PRJNA905368. All metadata and code can be found at https://github.com/effelsbn/Effelsberg_2023_16Sstrawpigs
-
-## Competing interests
-The authors declare no conflict of interest.
-
-## Funding
+# Funding
 This work was funded by the Federal Ministry of Education and Research (BMBF) under grant numbers 01KI2009A and 01KI2009B (#1Health-PREVENT) as part of the Research Network Zoonotic Infectious Diseases.
 
-## Authors' contributions
-AM, RK & MB designed the study. IK, SL & HS collected samples and performed MRSA screening. CB & AF performed DNA sequencing and raw data processing. NE analyzed the data and wrote the first draft. All authors read and approved the final manuscript.
-
-## Acknowledgements
-The authors would like to thank the participating farmers. Further, we would like to thank the staff of the IKMB microbiome laboratory for processing samples as well as IKMB sequencing facilities for excellent technical support.
+# Conflict of interest
+The authors declare no conflict of interest.
 
 \newpage
 
 # Supplement
 
-Supplementary File S1: Interactive html file showing the microbial community in pig samples on each taxa level per week represented as krona plot.
+Supplementary File S1: Barplot showing the measured (Run1 & Run2) and expected (Zymo) microbial composition of the Zymo mock community included as control.
 
-Supplementary File S2: Interactive html file showing the microbial community in straw samples on each taxa level per week represented as krona plot.
+Supplementary File S2: Interactive html file showing the microbial community in pig samples on each taxa level per week represented as krona plot.
+
+Supplementary File S3: Interactive html file showing the microbial community in straw samples on each taxa level per week represented as krona plot.
+
+\newpage
+
+```{r}
+kable(core_table,
+      caption = "Table 1. Core taxa (>0.5% abundance in at least 50% of samples) in nasal pig samples.",
+      align = "l")
+```
+
+\newpage
+
+**Figure 1.** Culture-confirmed MRSA carriage status of 13 pigs kept on straw during a full 14-week fattening period. At each sampling point, straw samples were additionally analyzed
+
+**Figure 2.** Bar plot showing relative abundances of the most abundant phyla in pig and straw samples for each sampling week.
+
+**Figure 3.** Bump chart showing the 13 most abundant classes ranked by their relative abundance in pig samples per week (1 = highest & 10 = lowest relative abundance).
+
+**Figure 4.** Line chart showing the relative abundance of staphylococci in porcine (pink) and straw (orange) samples per week. Thin lines show individual pigs or the pen from which straw was sampled, respectively. Bold lines indicate the trend line over all samples of the same type.
+
+**Figure 5.** Representation of alpha-diversity measures for pig samples. A) Rarefaction curve showing the number of unique ASVs detected at each sequencing depth. The orange line indicates the chosen rarefaction depth of 10,358. Boxplots representing the five-number summary show Shannon diversity (B) and observed species count (C) among all pig samples by sampling week. Outliers are marked as dots.
+
+**Figure 6.** Representation of beta-diversity measures. A) Non-metric multidimensional scaling (NMDS) of Bray-Curtis distances. Color and ellipses indicate the different sampling weeks. Dots represent pig, triangles straw samples. B) Line chart of Bray-Curtis distances between the communities at each sampling week and week 0 (housing in) in pig samples. Each shade of grey represents one individual pig. The bold orange line indicates the trend line over all samples.
+
+**Figure 7.** Sampling scheme for follow-up study. Nasal swabs are taken of ten different pigs of each housing condition, straw bedding and conventional slatted floor, at five days during a full fattening period. In addition, four straw or boot swab and mud samples are taken at each time point.
+
+
 
 \newpage
 

@@ -19,7 +19,7 @@ ps_original <- ps
 # Create filtered objects
 all_info <- merge(metadata, readtrack, by = 0)
 all_info_kept <- all_info %>%
-  filter(type != "control" & ID != "2_394") #removes controls & empty sample
+  filter(type != "control" & ID != "2_394" & type != "na")
 
 ps <- subset_samples(ps_original, type != "control" & ID != "2_394") # continue working without controls & empty sample
 OTU <- as.data.frame(otu_table(ps))
@@ -148,7 +148,7 @@ bars <- ggplot(phyla, aes(x = type, y = sum_abund, fill = Phylum)) +
     axis.title.y = element_text(size = 12, color = "black")
   )
 
-ggsave("figures/phyla_barplot.tiff", width = 170, height = 120, units = "mm")
+ggsave("figures/phyla_barplot.pdf", width = 170, height = 120, units = "mm")
 
 # Create bump chart classes
 pig_tax_by_week <- psmelt(ps_pigs) %>%
@@ -191,7 +191,7 @@ bumps <- ggplot(pig_class_by_week_rank, mapping = (aes(x = week, y = Rank, color
     axis.title.y = element_text(size = 12, color = "black")
   )
 
-ggsave("figures/class_bumps.tiff", width = 170, height = 120, units = "mm")
+ggsave("figures/class_bumps.pdf", width = 170, height = 120, units = "mm")
 
 ## Staphylococci
 
@@ -244,7 +244,7 @@ ggplot(staphs, aes(x = week, y = sum_rel_abund, group = source, color = type)) +
     axis.title.y = element_text(size = 12, color = "black")
   )
 
-ggsave("figures/staphylococci.tiff", width = 170, height = 100, units = "mm")
+ggsave("figures/staphylococci.pdf", width = 170, height = 100, units = "mm")
 
 ## Diversity
 ps_pigs_rare <- rarefy_even_depth(ps_pigs, sample.size = min(sample_sums(ps_pigs)), rngseed = 17, replace = FALSE)
@@ -290,9 +290,10 @@ rcurve <- ggplot(curve_df, aes(x = n_seqs, y = value, group = Sample)) +
 rcurve + shannon / observed +
   plot_annotation(tag_levels = "A")
 
-ggsave("figures/diversity_combined.tiff", width = 170, units = "mm")
+ggsave("figures/diversity_combined.pdf", width = 170, units = "mm")
 
-# Beta-Diversity
+
+
 
 ## Bray-Curtis
 pig_dist_bray <- vegan::avgdist(OTU_pigs, sample = min(sample_sums(ps_pigs))) # 100 random vegdist, sample = 10358
@@ -337,40 +338,86 @@ dayzero <- ggplot(pig_dist_small, aes(x = weekB, y = dist, group = source, color
   theme(legend.position = "none")
 
 ## NMDS
-ord <- ordinate(ps_pigs, "NMDS", "bray")
+ord_all <- ordinate(ps, "NMDS", "bray")
 
 NMDS_cols <- feathers::get_pal("cassowary")[1:6]
 
 NMDS_labels <- data.frame(
-  x = c(-0.75, -0.3, 1.05, 0.55, 0.5, 1.25),
-  y = c(0.78, -0.75, -0.6, 0, 0.75, 0.65),
+  x = c(-1.1, -0.6, 0.2, 0.7, 0.1, 1.25),
+  y = c(-0.5, 0.4, 0.9, -0.2, -0.7, 0.6),
   label = c("00", "01", "05", "10", "11", "14"),
   week = c("00", "01", "05", "10", "11", "14")
 )
 
-NMDS <- plot_ordination(ps_pigs, ord, color = "week") +
+NMDS_all <- plot_ordination(ps, ord_all, color = "week", shape = "type") +
   geom_point(size = 4) +
   stat_ellipse() +
   scale_color_manual(values = feathers::get_pal("cassowary")) +
+  scale_shape_manual(values = c(16, 18, 17)) +
   geom_label(data = NMDS_labels, aes(x = x, y = y, label = label, color = week), fontface = 2) +
   theme_classic() +
   theme(legend.position = "none")
 
-NMDS / dayzero  +
+NMDS_all / dayzero  +
   plot_annotation(tag_levels = "A")
 
-ggsave("figures/beta_combined.tiff", width = 170, height = 200, units = "mm")
+ggsave("figures/beta_combined_revised.pdf", width = 170, height = 200, units = "mm")
 
 ## Statistics
+dist_bray <- vegan::avgdist(OTU, sample = min(sample_sums(ps))) # 100 random vegdist, sample = 6245
+bray_meta <- all_info_kept %>%
+  rename(Sample = Row.names) %>%
+  select(Sample, source, week, MRSA) %>%
+  mutate(week = as.numeric(week), .keep = "unused")
 
-adonis_all <- adonis2(pig_dist_bray~pig_meta$week)
+adonis_inkSt <- adonis2(dist_bray~bray_meta$week)
 
-bray_test <- pairwiseAdonis::pairwise.adonis2(pig_dist_bray~week, data = pig_meta)
-bray_df <- data.frame(do.call(rbind.data.frame, bray_test)) 
-bray_sigs <- bray_df %>% 
-  filter(rownames(bray_df) != "parent_call") %>% 
+bray_test_inkSt <- pairwiseAdonis::pairwise.adonis2(dist_bray~week, data = bray_meta)
+
+bray_df_inkSt <- data.frame(do.call(rbind.data.frame, bray_test_inkSt)) 
+
+bray_sigs_inkSt <- bray_df_inkSt %>% 
+  filter(rownames(bray_df_inkSt) != "parent_call") %>% 
   drop_na() %>% 
   mutate(p = as.numeric(Pr..F.))
+
+## Supplemental figure mock
+melt_all <- psmelt(ps_original)
+mocks <- melt_all %>% 
+  filter(source == "mock") %>%
+  filter(Abundance > 0) %>%
+  group_by(Genus, ID) %>% 
+  mutate(abs_abund = sum(Abundance)) %>%
+  ungroup() %>% 
+  select(ID, Genus, abs_abund) %>%
+  distinct() %>% 
+  group_by(ID) %>% 
+  mutate(read_total = sum(abs_abund)) %>% 
+  ungroup() %>%
+  mutate(rel_abund = (abs_abund/read_total)*100, .keep = "unused") %>% 
+  pivot_wider(names_from = ID, values_from = rel_abund) %>% 
+  arrange(Genus) %>% 
+  filter(Mock1 > 0.05 & Mock2 > 0.05)
+
+zymo <- read.delim(file = "input/zymo_mock_genus.tsv")
+
+comptab <- merge(zymo, mocks, by = "Genus", all = TRUE)
+
+cols26 <- read_lines("input/26colors.txt")
+
+comptab_stack <- arrange(comptab, desc(Zymo)) %>%
+  pivot_longer(cols = !Genus, names_to = "sample")
+comptab_stack$Genus <- factor(comptab_stack$Genus, levels = unique(comptab$Genus))
+
+ggplot(comptab_stack, aes(fill=Genus, y=value, x=sample)) + 
+  geom_bar(position="stack", stat="identity", color = "black") +
+  scale_fill_manual(values = cols26) +
+  ylab("relative abundance") +
+  xlab(NULL) +
+  scale_x_discrete(labels = c("Zymo", "Run1", "Run2")) +
+  theme_classic()
+
+ggsave("figures/mock.pdf", width = 170, units = "mm")
 
 
 
