@@ -7,6 +7,5 @@ This is a repository with data and scripts accompanying our manuscript "Pilot st
 * **paper** contains the RMarkdown file used to write the manuscript including code to calculate numbers
 
 
-N Effelsberg, I Kobusch, H Schollenbruch, S Linnemann, C Bang, A Franke, R Köck, M Boelhauve, A Mellmann (2023). Pilot study on nasal microbiota dynamics and MRSA carriage of a pig cohort housed on straw bedding. *Mol Microbiol*.
-
+Effelsberg, N., Kobusch, I., Schollenbruch, H., Linnemann, S., Bang, C., Franke, A., Köck, R., Boelhauve, M. & Mellmann, A. (2023). Pilot study on nasal microbiota dynamics and MRSA carriage of a pig cohort housed on straw bedding. *Molecular Microbiology*, 00, 1–10. https://doi.org/10.1111/mmi.15136
 
